@@ -6,6 +6,7 @@ info:
   contact: {}
 servers:
   - url: "{{url}}"
+    description: "primary server"
 paths:
   /accounts/create:
     post:
